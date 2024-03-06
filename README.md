@@ -1,4 +1,4 @@
-# fintech_app_RajaKodumuru
+# Gen_AI_RajaKodumuru
 
 1) I am successfully and able to retrieve the job description page, but after testing the code by sending 3-4 url's automatically Linkedin security system caught it and denied my request, so right now I am not able to fetch the data using BeautifulSoup.
 2) Linkedin Security System doesn't allows us to scrap the data and it detects our pc details as well.
